@@ -186,7 +186,7 @@ const Projects = () => {
     <div className="flex flex-col items-center justify-center px-8">
       <div className="flex flex-col gap-4">
         <div className="flex flex-col gap-4">
-          <h1 className="font-semibold text-3xl">My Recent Works</h1>
+          <h1 className="font-semibold text-3xl">Recent Works</h1>
           {/* <p className="text-slate-400 ">
           Transform your idea into a market-ready MVP in under 14-days,
           complete with everything you need to launch and operate it.
