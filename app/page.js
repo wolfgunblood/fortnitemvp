@@ -1,6 +1,7 @@
 "use client"
 
 import CTA from "@/components/CTA";
+import { FAQ } from "@/components/FAQ";
 import Features from "@/components/Features";
 import Footer from "@/components/footer";
 import Hero from "@/components/Hero";
@@ -16,6 +17,7 @@ export default function Home() {
       <Projects />
       <Features />
       {/* <How /> */}
+      <FAQ />
       <CTA />
       <Footer />
     </div>

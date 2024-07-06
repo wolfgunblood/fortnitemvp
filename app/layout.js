@@ -12,9 +12,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={cn(inter.className,"bg-muted")}>
-        {children}
-      </body>
+      <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+
+      <body className={cn(inter.className, "bg-muted")}>{children}</body>
     </html>
   );
 }

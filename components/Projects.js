@@ -172,7 +172,7 @@ const projects = [
         icon: <Globe className="size-3" />,
       },
     ],
-    image: "https://utfs.io/f/2af9209f-94db-48b1-8308-8d2a8031e017-dajlv0.png",
+    image: "https://utfs.io/f/f2e7df5b-a5f0-4a55-8bc3-f203640ed86b-pl4zna.png",
     video: "hello world",
     icon: "/jobboard.svg",
   },
